@@ -1,0 +1,1 @@
+Esta es la asignacion de cargar datos,la entrego de esta forma porque el archivo no quiso cargar completo desde el visual,ya que decia que es demaciado grande,inicie subiendolo por carpeta pero la ultima supero el exceso.
