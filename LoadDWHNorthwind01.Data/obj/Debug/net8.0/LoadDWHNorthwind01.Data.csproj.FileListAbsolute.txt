@@ -1,0 +1,12 @@
+C:\Users\lisbe\source\repos\LoadDWHNorthwind01\LoadDWHNorthwind01.Data\bin\Debug\net8.0\LoadDWHNorthwind01.Data.deps.json
+C:\Users\lisbe\source\repos\LoadDWHNorthwind01\LoadDWHNorthwind01.Data\bin\Debug\net8.0\LoadDWHNorthwind01.Data.dll
+C:\Users\lisbe\source\repos\LoadDWHNorthwind01\LoadDWHNorthwind01.Data\bin\Debug\net8.0\LoadDWHNorthwind01.Data.pdb
+C:\Users\lisbe\source\repos\LoadDWHNorthwind01\LoadDWHNorthwind01.Data\obj\Debug\net8.0\LoadDWHNorthwind01.Data.csproj.AssemblyReference.cache
+C:\Users\lisbe\source\repos\LoadDWHNorthwind01\LoadDWHNorthwind01.Data\obj\Debug\net8.0\LoadDWHNorthwind01.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisbe\source\repos\LoadDWHNorthwind01\LoadDWHNorthwind01.Data\obj\Debug\net8.0\LoadDWHNorthwind01.Data.AssemblyInfoInputs.cache
+C:\Users\lisbe\source\repos\LoadDWHNorthwind01\LoadDWHNorthwind01.Data\obj\Debug\net8.0\LoadDWHNorthwind01.Data.AssemblyInfo.cs
+C:\Users\lisbe\source\repos\LoadDWHNorthwind01\LoadDWHNorthwind01.Data\obj\Debug\net8.0\LoadDWHNorthwind01.Data.csproj.CoreCompileInputs.cache
+C:\Users\lisbe\source\repos\LoadDWHNorthwind01\LoadDWHNorthwind01.Data\obj\Debug\net8.0\LoadDWHNorthwind01.Data.dll
+C:\Users\lisbe\source\repos\LoadDWHNorthwind01\LoadDWHNorthwind01.Data\obj\Debug\net8.0\refint\LoadDWHNorthwind01.Data.dll
+C:\Users\lisbe\source\repos\LoadDWHNorthwind01\LoadDWHNorthwind01.Data\obj\Debug\net8.0\LoadDWHNorthwind01.Data.pdb
+C:\Users\lisbe\source\repos\LoadDWHNorthwind01\LoadDWHNorthwind01.Data\obj\Debug\net8.0\ref\LoadDWHNorthwind01.Data.dll
